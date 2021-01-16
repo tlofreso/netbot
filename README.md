@@ -1,5 +1,6 @@
 # netbot
 A SlackBot for NetBox.
+- netbot.py | Small flask app that receives POST calls from slack, and relays them to netbox
 
 ![demo image](images/demo2.png)
 
